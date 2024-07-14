@@ -1,4 +1,4 @@
-# Problem-Solving-for-Learning---JavaScript
-Series of coding problems and solutions in Java Script!
+# Problem-Solving-for-Learning
+Series of coding problems and solutions in Java Script and c++!
 
-## Problems are from Geeks to Geeks
+## Problems are from Geeks to Geeks and LeetCode
