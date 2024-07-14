@@ -25,7 +25,7 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& v) {
         string ans="";
-        sort(v.begin(),v.end());
+        sort(v.begin(),v.end()); // this sorts lexigraphically 
         int n=v.size();
         string first=v[0],last=v[n-1];
         for(int i=0;i<min(first.size(),last.size());i++){
